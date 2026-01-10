@@ -1,4 +1,4 @@
-# SOC Automation
+# Detection Engineering & Threat Validation Lab
 
 ## Objective
 [Brief Objective - Remove this afterwards]
