@@ -1,4 +1,4 @@
-# SOC Automation Lab
+# SOC Automation
 
 ## Objective
 
